@@ -1,0 +1,12 @@
+body{
+    
+
+    //border: 10px solid cyan;//
+}
+
+div{
+    border:1px solid blue;
+    width: 600px;
+    margin: auto;
+
+}
